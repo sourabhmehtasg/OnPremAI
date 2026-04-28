@@ -120,7 +120,7 @@ pip install faiss-cpu
 pip install pypdf
 pip install reportlab
 pip install langchain-text-splitters
-pip install tqdm
+
 ```
 
 ---
