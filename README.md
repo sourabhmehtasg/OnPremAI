@@ -8,7 +8,7 @@ You can directly use this in your repo.
 
 # 📘 README — On-Prem AI Setup Playbook
 
-```markdown
+
 # 🚀 On-Prem AI Setup Playbook (LLM + RAG, Fully Local)
 
 This guide shows how to set up a **fully local AI system**:
@@ -36,8 +36,8 @@ A working local AI pipeline that:
 
 ## 🧱 Project Structure
 
-```
 
+```
 project/
 │
 ├── venv/
@@ -46,7 +46,8 @@ project/
 ├── output/
 └── main.py
 
-````
+```
+
 
 ---
 
@@ -120,7 +121,6 @@ pip install faiss-cpu
 pip install pypdf
 pip install reportlab
 pip install langchain-text-splitters
-
 ```
 
 ---
