@@ -357,7 +357,7 @@ You now have:
 
 ---
 
-# 🔜 Next
+# 🔜 Next Upcoming playbooks
 
 * batch processing
 * API layer
@@ -365,68 +365,3 @@ You now have:
 * smaller models
 
 ---
-
-# 💬 Final Thought
-
-Most people stop at:
-
-> “I ran a model locally”
-
-The real shift is:
-
-> “I made it usable”
-
-```
-
----
-
-# 🎯 Second Question (Important)
-
-## 👉 Where should you drop the playbook link?
-
-### ❌ NOT Post-2 anymore  
-Too late, momentum gone.
-
----
-
-## ✅ Use it in Post-3 (this is PERFECT alignment)
-
-### Strategy:
-
-1. Post-3 → already about GPU  
-2. After ~60–90 mins → comment:
-
-> I’ve cleaned up my GPU setup + fixes into a simple playbook (no unnecessary steps).  
-> Happy to share if useful.
-
----
-
-### Then:
-
-- If people reply → send link  
-- OR after some engagement → drop link in reply  
-
----
-
-## 🧠 Why Post-3?
-
-Because:
-
-👉 Context match = higher conversion  
-👉 Fresh post = higher visibility  
-👉 GPU topic = high curiosity  
-
----
-
-# 🚀 Final recommendation
-
-- Use this doc as **your authority asset**
-- Don’t dump link immediately
-- Create **pull → then share**
-
----
-
-When you’re ready:
-
-👉 Next we craft **Post-4 (what moved the needle)** — this one can outperform all previous 👍
-```
